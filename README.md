@@ -30,3 +30,5 @@ The dataset can only be used for the purpose of this assignment. Sharing or dist
 | AverageIncomeInZipCode       | Attribute 13     | Average Income In Zip Code                                                                                                                                                                                   |
 | LengthOfStay                 | target           | The total number  of patient days at an acute level and/or other than acute care level. Need to be transformed to match the task class 0 id LengthOfStay < 4 and class 1 otherwise                           |
 
+## To run the notebook, click kernel and run all cells
+Please beware that running the whole notebook might take hours (around 12 hours)
